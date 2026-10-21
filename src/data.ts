@@ -213,9 +213,9 @@ export const strategicImprovements = [
     icon: Flame
   },
   {
-    title: "Minissérie em Vídeo (30 Episódios)",
-    badge: "Audiovisual com Léo",
-    description: "Trabalhar com o videomaker Léo na gravação de uma série fragmentada de 30 pequenos episódios diários (ex: Dia 1: 'Nosso molho de tomate autêntico', Dia 2: 'Tempo de fermentação de 48h', Dia 3: 'Nossa embalagem térmica especial').",
+    title: "Testes Contínuos de Novos Vídeos",
+    badge: "Validação Constante",
+    description: "Estamos testando e inserindo constantemente novos vídeos e formatos nas campanhas, mensurando a retenção e a conversão direta para retroalimentar os anúncios campeões e manter o público sempre engajado sem fadiga.",
     icon: Video
   }
 ];
