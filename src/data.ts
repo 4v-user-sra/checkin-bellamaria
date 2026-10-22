@@ -180,10 +180,10 @@ export const topCreatives = [
 export const objectivesData = {
   macro: {
     title: "Objetivo Macro do Projeto",
-    currentRevenue: "R$ 120.000 a R$ 150.000 / mês",
-    targetRevenue: "R$ 200.000+ / mês",
+    currentRevenue: "R$ 90.000 a R$ 100.000 / mês",
+    targetRevenue: "R$ 120.000 a R$ 130.000 / mês",
     budget: "R$ 3.000,00 / mês",
-    description: "Escalar o faturamento atual (que gira em torno de R$ 120.000 a R$ 150.000) acelerando a expansão digital, mantendo o orçamento de mídia inicial em R$ 3.000,00 mensais com alocação técnica e foco no LTV."
+    description: "Escalar o faturamento atual (que gira em torno de R$ 90.000 a R$ 100.000) acelerando a expansão digital até a meta de R$ 120.000 a R$ 130.000/mês, mantendo o orçamento de mídia inicial em R$ 3.000,00 mensais com alocação técnica e foco no LTV."
   },
   krs: [
     {
